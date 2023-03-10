@@ -39,4 +39,10 @@ model will be utilized to forecast the presence of malaria-infected
 cells.</h4></li>
 <h4> <li>The deep learning model which we developed gives an 
 accuracy of 97%</h4></li>
-
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> Dataset:</h2></div>
+<div><h3>The dataset used is Malaria-dataset which is 
+downloaded from the National Library of medicine official 
+website: https:ceb.nlm.nih.gov/repositories/malaria-datasets/</h3></div>
