@@ -37,7 +37,7 @@ classification accuracy outcomes from deep convolutional neural
 networks. With the provided blood smear samples, this trained 
 model will be utilized to forecast the presence of malaria-infected 
 cells.</h4></li>
-<h4> <li>The deep learning model which we developed gives an 
+<h4> <li>This deep learning model gives an 
 accuracy of 97%</h4></li>
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
