@@ -36,7 +36,7 @@ datasets for both training and testing, we will compare the
 classification accuracy outcomes from deep convolutional neural 
 networks. With the provided blood smear samples, this trained 
 model will be utilized to forecast the presence of malaria-infected 
-cells.</h4></li>
+cells.It is deployed in AWS cloud - EC2 for public access</h4></li>
 <h4> <li>This deep learning model gives an 
 accuracy of 97%</h4></li>
 <h2><picture>
