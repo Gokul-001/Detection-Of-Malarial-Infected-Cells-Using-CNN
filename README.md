@@ -47,5 +47,5 @@ accuracy of 97%</h4></li>
 downloaded from the National Library of medicine official 
 website: https:ceb.nlm.nih.gov/repositories/malaria-datasets/</h3></div>
 
-### Note ⚠ :
-- This project is deployed in AWS EC2, But the service may be temporarily suspended due to cost considerations 
+<h2><div>⚠ Note:</h2></div>
+<h4>This project is deployed in AWS EC2, But the service may be temporarily suspended due to cost considerations </h4> 
