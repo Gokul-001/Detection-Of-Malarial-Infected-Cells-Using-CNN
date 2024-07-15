@@ -46,3 +46,5 @@ accuracy of 97%</h4></li>
 <div><h3>The dataset used is Malaria-dataset which is 
 downloaded from the National Library of medicine official 
 website: https:ceb.nlm.nih.gov/repositories/malaria-datasets/</h3></div>
+
+### Note ⚠ : This Aws EC2 deployed project service may be temporarily suspended due to cost considerations 
