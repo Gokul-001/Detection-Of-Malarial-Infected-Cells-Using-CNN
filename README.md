@@ -36,7 +36,7 @@ datasets for both training and testing, we will compare the
 classification accuracy outcomes from deep convolutional neural 
 networks. With the provided blood smear samples, this trained 
 model will be utilized to forecast the presence of malaria-infected 
-cells.It is deployed in AWS cloud - EC2 for public access</h4></li>
+cells.</h4></li>
 <h4> <li>This deep learning model gives an 
 accuracy of 97%</h4></li>
 <h2><picture>
@@ -47,4 +47,5 @@ accuracy of 97%</h4></li>
 downloaded from the National Library of medicine official 
 website: https:ceb.nlm.nih.gov/repositories/malaria-datasets/</h3></div>
 
-### Note ⚠ : This Aws EC2 deployed project service may be temporarily suspended due to cost considerations 
+### Note ⚠ :
+- This project is deployed in AWS EC2, But the service may be temporarily suspended due to cost considerations 
